@@ -11,7 +11,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy desarrollador Full Stack con formación en TripleTen y experiencia construyendo aplicaciones web completas bajo arquitectura cliente-servidor.
+Soy desarrollador Full Stack Junior y experiencia construyendo aplicaciones web completas bajo arquitectura cliente-servidor.
 
 Trabajo principalmente con el stack JavaScript moderno, desarrollando aplicaciones escalables con separación clara entre frontend, backend y base de datos.
 
