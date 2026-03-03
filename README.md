@@ -1,6 +1,6 @@
 # Alfredosullivan.github.io
 
-<h1 align="center">Hola 👋, soy Carlos Alfredo Febles</h1>
+<h1 align="center">Hola 👋, soy Carlos Alfredo Febles Gutierrez</h1>
 <h3 align="center">Desarrollador Full Stack | React • Node.js • PostgreSQL</h3>
 
 <p align="center">
@@ -41,7 +41,6 @@ Me especializo en:
 ### Backend
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
 </p>
 
 ### Bases de Datos
@@ -55,7 +54,6 @@ Me especializo en:
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
 </p>
 
 ---
@@ -78,8 +76,7 @@ React · Node.js · Express · PostgreSQL · API REST
 https://www.sullytripleten.chickenkiller.com  
 
 🔗 Repositorio:  
-https://github.com/Alfredosullivan
-
+https://alfredosullivan.github.io/
 ---
 
 ## 📚 Actualmente Aprendiendo
