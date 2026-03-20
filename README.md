@@ -100,6 +100,7 @@ Tecnologías utilizadas:
 C# · ASP.NET Core · .NET 10 · React 19 · Vite · SQL Server · Entity Framework Core · JWT · BCrypt
 
 🔗 Github:
+https://github.com/Alfredosullivan/nexusbank-banca-virtual
 
 🔗 Repositorio:  
 https://alfredosullivan.github.io/
