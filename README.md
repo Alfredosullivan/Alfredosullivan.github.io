@@ -80,6 +80,27 @@ React · Node.js · Express · PostgreSQL · API REST
 🔗 Demo en vivo:  
 https://www.sullytripleten.chickenkiller.com 
 
+### 🏦 NexusBank — Aplicación Web de Banca Virtual
+Funcionalidades desarrolladas:
+
+Implementación de sistema de autenticación y autorización con JWT (registro, login, manejo de sesiones y rutas protegidas)
+Gestión de cuentas bancarias por usuario con validación de unicidad y control de saldos en tiempo real
+Desarrollo de módulo de movimientos financieros con soporte para transferencias, ingresos y egresos con 13 categorías personalizadas y notas opcionales
+Modelado de datos y persistencia en base de datos relacional con migraciones versionadas, garantizando integridad y consistencia mediante transacciones atómicas
+Consumo e integración de servicios mediante API REST con 8 endpoints, asegurando comunicación eficiente entre frontend y backend
+Desarrollo de simulador financiero con tres módulos: proyección de ahorro mensual, cálculo de cuotas de préstamo y simulación de inversión con interés compuesto
+
+Resultado / impacto:
+
+Desarrollo de una solución funcional end-to-end que cubre el ciclo completo de gestión financiera personal, desde el registro de movimientos hasta la proyección futura de patrimonio
+Arquitectura en capas (Controllers → Services → Data) que permite incorporar nuevas funcionalidades sin afectar el rendimiento del sistema
+Mejora en la trazabilidad financiera con historial paginado, filtros por tipo de movimiento y categorización de gastos e ingresos
+
+Tecnologías utilizadas:
+C# · ASP.NET Core · .NET 10 · React 19 · Vite · SQL Server · Entity Framework Core · JWT · BCrypt
+
+🔗 Github:
+
 🔗 Repositorio:  
 https://alfredosullivan.github.io/
 
