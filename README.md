@@ -69,7 +69,7 @@ Funcionalidades desarrolladas:
 - Modelado de datos y persistencia en base de datos relacional, garantizando integridad y consistencia de la información
 - Consumo e integración de servicios mediante API REST, asegurando comunicación eficiente entre frontend y backend
 
-  Resultado / impacto:
+Resultado / impacto:
 - Desarrollo de una solución funcional end-to-end que optimiza la gestión de usuarios y contenidos digitales, mejorando la experiencia de usuario y reduciendo tiempos de operación manual en la administración de información
 - Arquitectura escalable que permite la incorporación de nuevas funcionalidades sin afectar el rendimiento del sistema
 - Mejora en la trazabilidad y disponibilidad de la información, asegurando mayor confiabilidad y eficiencia en los procesos digitales
