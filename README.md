@@ -87,7 +87,7 @@ https://alfredosullivan.github.io/
 
 - Optimización de consultas SQL
 - Índices y rendimiento en bases de datos
-- SQL Server
+- Ms SQL Server
 - Fundamentos de arquitectura de software
 
 ---
