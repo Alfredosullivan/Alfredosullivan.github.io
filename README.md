@@ -78,11 +78,10 @@ Resultado / impacto:
 React · Node.js · Express · PostgreSQL · API REST
 
 🔗 Demo en vivo:  
-https://www.sullytripleten.chickenkiller.com  
+https://www.sullytripleten.chickenkiller.com 
 
 🔗 Repositorio:  
 https://alfredosullivan.github.io/
----
 
 ## 📚 Actualmente Aprendiendo
 
