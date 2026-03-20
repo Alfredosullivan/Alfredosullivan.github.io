@@ -174,8 +174,9 @@ body {
 /* ── TWO COLUMN LAYOUT ──────────────────────── */
 .two-col {
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: var(--space-lg);
+  grid-template-columns: 1fr;
+  gap: var(--space-sm);
+  max-width: 65ch;
 }
 
 .two-col p {
