@@ -265,6 +265,8 @@ body {
   text-decoration: none;
   background: transparent;
   transition: all var(--transition);
+  position: relative;
+  z-index: 2;
 }
 
 .link-pill:hover {
