@@ -62,12 +62,17 @@ Me especializo en:
 
 ### 📸 Aplicación Web para Compartir Fotos
 
-Aplicación Full Stack donde los usuarios pueden:
+Funcionalidades desarrolladas:
+- Implementación de sistema de autenticación y autorización de usuarios (registro, login y manejo de sesiones)
+- Diseño y gestión de perfiles de usuario con capacidades de creación, edición y persistencia de información
+- Desarrollo de módulo para carga, almacenamiento y administración de imágenes
+- Modelado de datos y persistencia en base de datos relacional, garantizando integridad y consistencia de la información
+- Consumo e integración de servicios mediante API REST, asegurando comunicación eficiente entre frontend y backend
 
-- Registrarse e iniciar sesión
-- Crear y editar su perfil
-- Subir y administrar imágenes
-- Persistir información en base de datos relacional
+  Resultado / impacto:
+- Desarrollo de una solución funcional end-to-end que optimiza la gestión de usuarios y contenidos digitales, mejorando la experiencia de usuario y reduciendo tiempos de operación manual en la administración de información
+- Arquitectura escalable que permite la incorporación de nuevas funcionalidades sin afectar el rendimiento del sistema
+- Mejora en la trazabilidad y disponibilidad de la información, asegurando mayor confiabilidad y eficiencia en los procesos digitales
 
 **Tecnologías utilizadas:**  
 React · Node.js · Express · PostgreSQL · API REST
