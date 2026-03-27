@@ -92,6 +92,8 @@ Resultado / impacto:
 **Tecnologías utilizadas:**  
 React · Node.js · Express · PostgreSQL · API REST
 
+🔗 Github: https://github.com/Alfredosullivan/web_project_api_full
+
 ### 🏦 NexusBank — Aplicación Web de Banca Virtual
 Funcionalidades desarrolladas:
 
