@@ -60,7 +60,8 @@ Me especializo en:
 
 ## 🚀 Proyecto Destacado
 
-##🗞️ News Explorer — Aplicación Web de Búsqueda y Guardado de Noticias
+🗞️ News Explorer — Aplicación Web de Búsqueda y Guardado de Noticias
+
 Funcionalidades desarrolladas:
 Implementación de sistema de autenticación y autorización con JWT (registro, login, manejo de sesiones y rutas protegidas) Desarrollo de API REST propia con 6 endpoints para gestión de usuarios y artículos guardados Integración con NewsAPI para búsqueda de noticias en tiempo real por palabra clave con persistencia de resultados entre sesiones Modelado de datos con MongoDB y Mongoose, incluyendo validación de esquemas, campos protegidos y control de propiedad por usuario Implementación de contexto global con React Context API para manejo de estado del usuario autenticado Desarrollo de página de artículos guardados con ordenamiento dinámico de palabras clave por popularidad y rutas protegidas mediante componente HOC
 
@@ -72,7 +73,7 @@ Tecnologías utilizadas: JavaScript · Node.js · Express · MongoDB · Mongoose
 🔗 Github Backend: https://github.com/Alfredosullivan/project-name-backend
 🔗 Github Frontend: https://github.com/Alfredosullivan/project-name-frontend
 
-##🔗 Demo en vivo: https://news-explorer-web.vercel.app
+🔗 Demo en vivo: https://news-explorer-web.vercel.app
 
 ### 📸 Aplicación Web para Compartir Fotos
 
