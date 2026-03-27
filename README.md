@@ -71,6 +71,7 @@ Aplicación full stack funcional end-to-end que cubre el ciclo completo desde la
 Tecnologías utilizadas: JavaScript · Node.js · Express · MongoDB · Mongoose · React · Vite · JWT · BCrypt · REST API · Vercel · Railway
 
 🔗 Github Backend: https://github.com/Alfredosullivan/project-name-backend
+
 🔗 Github Frontend: https://github.com/Alfredosullivan/project-name-frontend
 
 🔗 Demo en vivo: https://news-explorer-web.vercel.app
