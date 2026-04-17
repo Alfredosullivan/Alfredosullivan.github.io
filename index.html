@@ -10,12 +10,12 @@
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-
+ 
   <div class="grain"></div>
-
+ 
   <header class="site-header">
     <div class="header-inner">
-      <span class="header-label">Portafolio — 2025</span>
+      <span class="header-label">Portafolio — 2026</span>
       <nav class="header-nav">
         <a href="#sobre-mi">Sobre mí</a>
         <a href="#proyectos">Proyectos</a>
@@ -23,9 +23,9 @@
       </nav>
     </div>
   </header>
-
+ 
   <main class="container">
-
+ 
     <!-- HERO -->
     <section class="hero">
       <div class="hero-tag">Desarrollador Full Stack Jr.</div>
@@ -37,7 +37,7 @@
       <p class="hero-sub">JavaScript · Node.js · APIs · React</p>
       <div class="hero-line"></div>
     </section>
-
+ 
     <!-- SOBRE MÍ -->
     <section id="sobre-mi" class="section">
       <div class="section-label">01 — Sobre mí</div>
@@ -70,16 +70,132 @@
         </div>
       </div>
     </section>
-
+ 
     <!-- PROYECTOS -->
     <section id="proyectos" class="section">
       <div class="section-label">02 — Proyectos</div>
-
-      <!-- PROYECTO 1 -->
+ 
+      <!-- PROYECTO 1: NEXUSBANK -->
       <article class="project-card">
         <div class="project-header">
           <div>
             <div class="project-number">Proyecto 01</div>
+            <h3 class="project-title">NexusBank — Aplicación Web de Banca Virtual</h3>
+          </div>
+          <div class="project-links">
+            <a href="https://github.com/Alfredosullivan/nexusbank-banca-virtual" target="_blank" class="link-pill">
+              <span class="link-dot"></span> GitHub
+            </a>
+          </div>
+        </div>
+ 
+        <p class="project-desc">
+          Aplicación bancaria full stack con autenticación JWT, gestión de cuentas,
+          movimientos financieros categorizados y simulador de escenarios financieros personales.
+        </p>
+ 
+        <div class="project-grid">
+          <div class="project-col">
+            <h4 class="col-heading">Funcionalidades</h4>
+            <ul>
+              <li>Sistema de autenticación y autorización con JWT (registro, login y rutas protegidas)</li>
+              <li>Gestión de cuentas bancarias con validación de unicidad y control de saldos en tiempo real</li>
+              <li>Módulo de movimientos financieros: transferencias, ingresos y egresos con 13 categorías personalizadas</li>
+              <li>Modelado de datos relacional con migraciones versionadas y transacciones atómicas</li>
+              <li>Simulador financiero con proyección de ahorro, cálculo de préstamos e inversión con interés compuesto</li>
+              <li>Historial paginado con filtros por tipo de movimiento y categorización de gastos</li>
+            </ul>
+          </div>
+          <div class="project-col">
+            <h4 class="col-heading">Impacto</h4>
+            <ul>
+              <li>Solución funcional end-to-end que cubre el ciclo completo de gestión financiera personal</li>
+              <li>Arquitectura en capas (Controllers → Services → Data) escalable y mantenible</li>
+              <li>Mayor trazabilidad financiera con categorización de ingresos y egresos</li>
+              <li>API REST con 8 endpoints documentados y manejo centralizado de errores</li>
+            </ul>
+          </div>
+        </div>
+ 
+        <div class="tech-stack">
+          <span class="tech-tag">C#</span>
+          <span class="tech-tag">ASP.NET Core</span>
+          <span class="tech-tag">.NET 10</span>
+          <span class="tech-tag">React 19</span>
+          <span class="tech-tag">Vite</span>
+          <span class="tech-tag">SQL Server</span>
+          <span class="tech-tag">Entity Framework Core</span>
+          <span class="tech-tag">JWT</span>
+          <span class="tech-tag">BCrypt</span>
+        </div>
+      </article>
+ 
+      <!-- PROYECTO 2: NEWS EXPLORER -->
+      <article class="project-card">
+        <div class="project-header">
+          <div>
+            <div class="project-number">Proyecto 02</div>
+            <h3 class="project-title">News Explorer — Búsqueda y Guardado de Noticias</h3>
+          </div>
+          <div class="project-links">
+            <a href="https://news-explorer-web.vercel.app" target="_blank" class="link-pill">
+              <span class="link-dot"></span> Demo en vivo
+            </a>
+            <a href="https://github.com/Alfredosullivan/news-explorer-frontend" target="_blank" class="link-pill">
+              <span class="link-dot"></span> GitHub Frontend
+            </a>
+            <a href="https://github.com/Alfredosullivan/news-explorer-backend" target="_blank" class="link-pill">
+              <span class="link-dot"></span> GitHub Backend
+            </a>
+          </div>
+        </div>
+ 
+        <p class="project-desc">
+          Aplicación web full stack para búsqueda de noticias en tiempo real y gestión
+          personalizada de artículos guardados, con autenticación segura y API REST propia.
+        </p>
+ 
+        <div class="project-grid">
+          <div class="project-col">
+            <h4 class="col-heading">Funcionalidades</h4>
+            <ul>
+              <li>Sistema de autenticación y autorización con JWT (registro, login y rutas protegidas)</li>
+              <li>Búsqueda de noticias en tiempo real integrada con NewsAPI</li>
+              <li>Guardado y eliminación de artículos por usuario con control de propiedad</li>
+              <li>Página de artículos guardados con palabras clave ordenadas por popularidad</li>
+              <li>Validación instantánea de formularios con hook personalizado</li>
+              <li>API REST propia con 6 endpoints para gestión de usuarios y artículos</li>
+            </ul>
+          </div>
+          <div class="project-col">
+            <h4 class="col-heading">Impacto</h4>
+            <ul>
+              <li>Solución funcional end-to-end que cubre el ciclo completo de búsqueda y gestión de noticias</li>
+              <li>Arquitectura modular (Controllers → Routes → Models → Middlewares) escalable</li>
+              <li>Experiencia de usuario mejorada con validación en tiempo real y persistencia de búsquedas</li>
+            </ul>
+          </div>
+        </div>
+ 
+        <div class="tech-stack">
+          <span class="tech-tag">React</span>
+          <span class="tech-tag">Node.js</span>
+          <span class="tech-tag">Express</span>
+          <span class="tech-tag">MongoDB</span>
+          <span class="tech-tag">JWT</span>
+          <span class="tech-tag">BCrypt</span>
+          <span class="tech-tag">API REST</span>
+          <span class="tech-tag">Vite</span>
+          <span class="tech-tag">Vercel</span>
+          <span class="tech-tag">Railway</span>
+        </div>
+      </article>
+ 
+      <!-- PROYECTO 3: COMPARTIR FOTOS -->
+      <article class="project-card">
+        <div class="project-header">
+          <div>
+            <div class="project-number">Proyecto 03</div>
             <h3 class="project-title">Aplicación Web para Compartir Fotos</h3>
           </div>
           <div class="project-links">
@@ -88,12 +204,12 @@
             </a>
           </div>
         </div>
-
+ 
         <p class="project-desc">
           Aplicación web completa para gestión y compartición de contenido multimedia,
           implementando una arquitectura full stack end-to-end.
         </p>
-
+ 
         <div class="project-grid">
           <div class="project-col">
             <h4 class="col-heading">Funcionalidades</h4>
@@ -114,7 +230,7 @@
             </ul>
           </div>
         </div>
-
+ 
         <div class="tech-stack">
           <span class="tech-tag">React</span>
           <span class="tech-tag">Node.js</span>
@@ -123,156 +239,9 @@
           <span class="tech-tag">API REST</span>
         </div>
       </article>
-
-      <!-- PROYECTO NEWS EXPLORER -->
-<article class="project-card">
-  <div class="project-header">
-    <div>
-      <div class="project-number">Proyecto 02</div>
-      <h3 class="project-title">News Explorer — Búsqueda y Guardado de Noticias</h3>
-    </div>
-    <div class="project-links">
-      <a href="https://news-explorer-web.vercel.app" target="_blank" class="link-pill">
-        <span class="link-dot"></span> Demo en vivo
-      </a>
-      <a href="https://github.com/Alfredosullivan/project-name-frontend" target="_blank" class="link-pill">
-        <span class="link-dot"></span> GitHub Frontend
-      </a>
-      <a href="https://github.com/Alfredosullivan/project-name-backend" target="_blank" class="link-pill">
-        <span class="link-dot"></span> GitHub Backend
-      </a>
-    </div>
-  </div>
-  <p class="project-desc">
-    Aplicación web full stack para búsqueda de noticias en tiempo real y gestión
-    personalizada de artículos guardados, con autenticación segura y API REST propia.
-  </p>
-  <div class="project-grid">
-    <div class="project-col">
-      <h4 class="col-heading">Funcionalidades</h4>
-      <ul>
-        <li>Sistema de autenticación y autorización con JWT (registro, login y rutas protegidas)</li>
-        <li>Búsqueda de noticias en tiempo real integrada con NewsAPI</li>
-        <li>Guardado y eliminación de artículos por usuario con control de propiedad</li>
-        <li>Página de artículos guardados con palabras clave ordenadas por popularidad</li>
-        <li>Validación instantánea de formularios con hook personalizado</li>
-        <li>API REST propia con 6 endpoints para gestión de usuarios y artículos</li>
-      </ul>
-    </div>
-    <div class="project-col">
-      <h4 class="col-heading">Impacto</h4>
-      <ul>
-        <li>Solución funcional end-to-end que cubre el ciclo completo de búsqueda y gestión de noticias</li>
-        <li>Arquitectura modular (Controllers → Routes → Models → Middlewares) escalable</li>
-        <li>Experiencia de usuario mejorada con validación en tiempo real y persistencia de búsquedas</li>
-      </ul>
-    </div>
-  </div>
-  <div class="tech-stack">
-    <span class="tech-tag">React</span>
-    <span class="tech-tag">Node.js</span>
-    <span class="tech-tag">Express</span>
-    <span class="tech-tag">MongoDB</span>
-    <span class="tech-tag">JWT</span>
-    <span class="tech-tag">BCrypt</span>
-    <span class="tech-tag">API REST</span>
-    <span class="tech-tag">Vite</span>
-    <span class="tech-tag">Vercel</span>
-    <span class="tech-tag">Railway</span>
-  </div>
-</article>
-      
-<!-- PROYECTO 2 -->
-<article class="project-card">
-  <div class="project-header">
-    <div>
-      <div class="project-number">Proyecto 03</div>
-      <h3 class="project-title">NexusBank — Aplicación Web de Banca Virtual</h3>
-    </div>
-    <div class="project-links">
-      <a href="https://github.com/Alfredosullivan/nexusbank-banca-virtual" target="_blank" class="link-pill">
-        <span class="link-dot"></span> GitHub
-      </a>
-    </div>
-  </div>
-  <p class="project-desc">
-    Aplicación bancaria full stack con autenticación JWT, gestión de cuentas,
-    movimientos financieros categorizados y simulador de escenarios financieros personales.
-  </p>
-  <div class="project-grid">
-    <div class="project-col">
-      <h4 class="col-heading">Funcionalidades</h4>
-      <ul>
-        <li>Sistema de autenticación y autorización con JWT (registro, login y rutas protegidas)</li>
-        <li>Gestión de cuentas bancarias con validación de unicidad y control de saldos en tiempo real</li>
-        <li>Módulo de movimientos financieros: transferencias, ingresos y egresos con 13 categorías personalizadas</li>
-        <li>Modelado de datos relacional con migraciones versionadas y transacciones atómicas</li>
-        <li>Simulador financiero con proyección de ahorro, cálculo de préstamos e inversión con interés compuesto</li>
-        <li>Historial paginado con filtros por tipo de movimiento y categorización de gastos</li>
-      </ul>
-    </div>
-    <div class="project-col">
-      <h4 class="col-heading">Impacto</h4>
-      <ul>
-        <li>Solución funcional end-to-end que cubre el ciclo completo de gestión financiera personal</li>
-        <li>Arquitectura en capas (Controllers → Services → Data) escalable y mantenible</li>
-        <li>Mayor trazabilidad financiera con categorización de ingresos y egresos</li>
-        <li>API REST con 8 endpoints documentados y manejo centralizado de errores</li>
-      </ul>
-    </div>
-  </div>
-  <div class="tech-stack">
-    <span class="tech-tag">C#</span>
-    <span class="tech-tag">ASP.NET Core</span>
-    <span class="tech-tag">.NET 10</span>
-    <span class="tech-tag">React 19</span>
-    <span class="tech-tag">Vite</span>
-    <span class="tech-tag">SQL Server</span>
-    <span class="tech-tag">Entity Framework Core</span>
-    <span class="tech-tag">JWT</span>
-    <span class="tech-tag">BCrypt</span>
-  </div>
-</article>
-      
-      <!-- PROYECTO 4 -->
-      <article class="project-card">
-        <div class="project-header">
-          <div>
-            <div class="project-number">Proyecto 04</div>
-            <h3 class="project-title">Aplicación Frontend con React</h3>
-          </div>
-          <div class="project-links">
-            <a href="https://github.com/Alfredosullivan/web_project_around_react" target="_blank" class="link-pill">
-              <span class="link-dot"></span> GitHub
-            </a>
-          </div>
-        </div>
-
-        <p class="project-desc">
-          Aplicación web con React enfocada en manejo de estado, componentes reutilizables
-          y consumo de APIs. Desarrollada como parte de la formación en TripleTen.
-        </p>
-
-        <div class="project-grid single">
-          <div class="project-col">
-            <h4 class="col-heading">Funcionalidades</h4>
-            <ul>
-              <li>Renderizado dinámico e interacción con API externa</li>
-              <li>Manejo de eventos y estados con React Hooks</li>
-              <li>Componentes reutilizables y arquitectura escalable</li>
-            </ul>
-          </div>
-        </div>
-
-        <div class="tech-stack">
-          <span class="tech-tag">React</span>
-          <span class="tech-tag">JavaScript</span>
-          <span class="tech-tag">HTML</span>
-          <span class="tech-tag">CSS</span>
-        </div>
-      </article>
+ 
     </section>
-
+ 
     <!-- CONTACTO -->
     <section id="contacto" class="section contact-section">
       <div class="section-label">03 — Contacto</div>
@@ -293,18 +262,16 @@
         </div>
       </div>
     </section>
-
+ 
   </main>
-
+ 
   <footer class="site-footer">
     <span>Carlos Alfredo Febles Gutiérrez</span>
     <span class="footer-dot">·</span>
     <span>Mérida, México</span>
     <span class="footer-dot">·</span>
-    <span>2025</span>
+    <span>2026</span>
   </footer>
-
-</body>
-</html>
+ 
 </body>
 </html>
