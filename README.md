@@ -1,131 +1,104 @@
-# Alfredosullivan.github.io
- 
-<h1 align="center">Hola 👋, soy Carlos Alfredo Febles Gutierrez</h1>
-<h3 align="center">Desarrollador Full Stack | React • Node.js • PostgreSQL</h3>
- 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Alfredosullivan&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="profile views"/>
-</p>
+<div align="center">
+
+```
+   ###    ##       ######## ########  ######## ########   #######
+  ## ##   ##       ##       ##     ## ##       ##     ## ##     ##
+ ##   ##  ##       ##       ##     ## ##       ##     ## ##     ##
+##     ## ##       ######   ########  ######   ##     ## ##     ##
+######### ##       ##       ##   ##   ##       ##     ## ##     ##
+##     ## ##       ##       ##    ##  ##       ##     ## ##     ##
+##     ## ######## ##       ##     ## ######## ########   #######
+
+######## ######## ########  ##       ########  ######
+##       ##       ##     ## ##       ##       ##    ##
+##       ##       ##     ## ##       ##       ##
+######   ######   ########  ##       ######    ######
+##       ##       ##     ## ##       ##             ##
+##       ##       ##     ## ##       ##       ##    ##
+##       ######## ########  ######## ########  ######
+```
+
+### Alfredo Febles Gutiérrez
+**Full Stack Developer** · Mérida, México
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-alfredo-febles-developer)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://alfredosullivan.github.io)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:alfredofeblesg@gmail.com)
+
+</div>
+
+<br>
+
+```
+Sobre mí ─────────────────────────────────────────────────────────────────────
+```
+
+Desarrollador Full Stack Junior especializado en la construcción de aplicaciones web completas con arquitectura cliente-servidor. Trabajo con el stack JavaScript moderno y tecnologías .NET, con enfoque en código limpio, buenas prácticas y experiencia de usuario.
+
+Antes de enfocarme en tecnología, trabajé como anfitrión en Airbnb — experiencia que desarrolló mis habilidades de comunicación, organización y resolución de problemas bajo presión, competencias que hoy aplico directamente al desarrollo de software.
+
+```
+Stack ────────────────────────────────────────────────────────────────────────
+```
+
+| Área | Tecnologías |
+|---|---|
+| **Frontend** | React · JavaScript · HTML5 · CSS3 · Vite |
+| **Backend** | Node.js · Express · C# · ASP.NET Core · .NET |
+| **Bases de datos** | SQL Server · PostgreSQL · MongoDB |
+| **Herramientas** | Git · GitHub · Postman · Docker |
+| **Auth & APIs** | JWT · BCrypt · REST API |
+
+```
+Proyectos ────────────────────────────────────────────────────────────────────
+```
+
+**▸ NexusBank — Aplicación Web de Banca Virtual**
+
+Aplicación bancaria full stack con autenticación JWT, gestión de cuentas, movimientos financieros con 13 categorías y simulador de escenarios financieros personales.
+
+`C#` `ASP.NET Core` `.NET 10` `React 19` `SQL Server` `Entity Framework Core` `JWT`
+
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Alfredosullivan/nexusbank-banca-virtual)
+
 ---
- 
-## 👨‍💻 Sobre mí
- 
-Soy desarrollador Full Stack Junior con experiencia construyendo aplicaciones web completas bajo arquitectura cliente-servidor.
- 
-Trabajo principalmente con el stack JavaScript moderno, desarrollando aplicaciones escalables con separación clara entre frontend, backend y base de datos.
- 
-Me especializo en:
- 
-- Desarrollo de interfaces dinámicas con React
-- Construcción de APIs REST con Node.js y Express
-- Diseño y modelado de bases de datos relacionales
-- Implementación de autenticación y autorización
-- Buenas prácticas, código limpio y mantenible
-📍 Ubicación: México  
-🎯 Buscando oportunidad como **Desarrollador Full Stack Junior**
- 
+
+**▸ News Explorer — Búsqueda y Guardado de Noticias**
+
+Aplicación full stack para búsqueda de noticias en tiempo real con NewsAPI, sistema de autenticación JWT y gestión personalizada de artículos guardados por usuario.
+
+`React` `Node.js` `Express` `MongoDB` `JWT` `Vite` `Railway` `Vercel`
+
+[![Frontend](https://img.shields.io/badge/Frontend-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Alfredosullivan/news-explorer-frontend)
+[![Backend](https://img.shields.io/badge/Backend-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Alfredosullivan/news-explorer-backend)
+[![Demo](https://img.shields.io/badge/Demo%20en%20vivo-000000?style=flat-square&logo=vercel&logoColor=white)](https://news-explorer-web.vercel.app)
+
 ---
- 
-## 🛠️ Stack Tecnológico
- 
-### Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-</p>
-### Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-</p>
-### Bases de Datos
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
-</p>
-### Herramientas
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-</p>
----
- 
-## 🚀 Proyectos Destacados
- 
-### 🏦 NexusBank — Aplicación Web de Banca Virtual
- 
-Funcionalidades desarrolladas:
-- Implementación de sistema de autenticación y autorización con JWT (registro, login, manejo de sesiones y rutas protegidas)
-- Gestión de cuentas bancarias por usuario con validación de unicidad y control de saldos en tiempo real
-- Desarrollo de módulo de movimientos financieros con soporte para transferencias, ingresos y egresos con 13 categorías personalizadas y notas opcionales
-- Modelado de datos y persistencia en base de datos relacional con migraciones versionadas, garantizando integridad y consistencia mediante transacciones atómicas
-- Consumo e integración de servicios mediante API REST con 8 endpoints, asegurando comunicación eficiente entre frontend y backend
-- Desarrollo de simulador financiero con tres módulos: proyección de ahorro mensual, cálculo de cuotas de préstamo y simulación de inversión con interés compuesto
-Resultado / impacto:
-- Desarrollo de una solución funcional end-to-end que cubre el ciclo completo de gestión financiera personal, desde el registro de movimientos hasta la proyección futura de patrimonio
-- Arquitectura en capas (Controllers → Services → Data) que permite incorporar nuevas funcionalidades sin afectar el rendimiento del sistema
-- Mejora en la trazabilidad financiera con historial paginado, filtros por tipo de movimiento y categorización de gastos e ingresos
-**Tecnologías utilizadas:**  
-C# · ASP.NET Core · .NET 10 · React 19 · Vite · SQL Server · Entity Framework Core · JWT · BCrypt
- 
-🔗 GitHub: https://github.com/Alfredosullivan/nexusbank-banca-virtual
- 
----
- 
-### 🗞️ News Explorer — Aplicación Web de Búsqueda y Guardado de Noticias
- 
-Funcionalidades desarrolladas:
-- Implementación de sistema de autenticación y autorización con JWT (registro, login, manejo de sesiones y rutas protegidas)
-- Desarrollo de API REST propia con 6 endpoints para gestión de usuarios y artículos guardados
-- Integración con NewsAPI para búsqueda de noticias en tiempo real por palabra clave con persistencia de resultados entre sesiones
-- Modelado de datos con MongoDB y Mongoose, incluyendo validación de esquemas, campos protegidos y control de propiedad por usuario
-- Implementación de contexto global con React Context API para manejo de estado del usuario autenticado
-- Desarrollo de página de artículos guardados con ordenamiento dinámico de palabras clave por popularidad y rutas protegidas mediante componente HOC
-Resultado / impacto:
-- Aplicación full stack funcional end-to-end que cubre el ciclo completo desde la búsqueda de noticias hasta el guardado y gestión personalizada por usuario
-- Arquitectura modular en el backend (Controllers → Routes → Models → Middlewares) que permite escalar y agregar nuevos endpoints sin afectar el sistema existente
-- Validación instantánea de formularios en el frontend con hook personalizado useFormValidation mejorando la experiencia del usuario
-**Tecnologías utilizadas:** JavaScript · Node.js · Express · MongoDB · Mongoose · React · Vite · JWT · BCrypt · REST API · Vercel · Railway
- 
-🔗 GitHub Backend: https://github.com/Alfredosullivan/news-explorer-backend
- 
-🔗 GitHub Frontend: https://github.com/Alfredosullivan/news-explorer-frontend
- 
-🔗 Demo en vivo: https://news-explorer-web.vercel.app
- 
----
- 
-### 📸 Aplicación Web para Compartir Fotos
- 
-Funcionalidades desarrolladas:
-- Implementación de sistema de autenticación y autorización de usuarios (registro, login y manejo de sesiones)
-- Diseño y gestión de perfiles de usuario con capacidades de creación, edición y persistencia de información
-- Desarrollo de módulo para carga, almacenamiento y administración de imágenes
-- Modelado de datos y persistencia en base de datos relacional, garantizando integridad y consistencia de la información
-- Consumo e integración de servicios mediante API REST, asegurando comunicación eficiente entre frontend y backend
-Resultado / impacto:
-- Desarrollo de una solución funcional end-to-end que optimiza la gestión de usuarios y contenidos digitales
-- Arquitectura escalable que permite la incorporación de nuevas funcionalidades sin afectar el rendimiento del sistema
-- Mejora en la trazabilidad y disponibilidad de la información, asegurando mayor confiabilidad y eficiencia en los procesos digitales
-**Tecnologías utilizadas:**  
-React · Node.js · Express · PostgreSQL · API REST
- 
-🔗 GitHub: https://github.com/Alfredosullivan/web_project_api_full
- 
----
- 
-## 📚 Actualmente Aprendiendo
- 
-- Optimización de consultas SQL
-- Índices y rendimiento en bases de datos
-- MS SQL Server
-- Fundamentos de arquitectura de software
----
- 
-## 📫 Contacto
- 
-💼 LinkedIn: https://www.linkedin.com/in/carlos-alfredo-febles-developer  
-💻 GitHub: https://github.com/Alfredosullivan  
-📧 Email: alfredofeblesg@gmail.com
+
+**▸ Aplicación Web para Compartir Fotos**
+
+Plataforma full stack para gestión y compartición de contenido multimedia con autenticación, perfiles de usuario y administración de imágenes.
+
+`React` `Node.js` `Express` `PostgreSQL` `REST API`
+
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Alfredosullivan/web_project_api_full)
+
+```
+Aprendiendo actualmente ──────────────────────────────────────────────────────
+```
+
+- Optimización de consultas SQL e índices en bases de datos
+- Arquitectura de software y patrones de diseño
+- MS SQL Server · Docker · CI/CD
+
+```
+──────────────────────────────────────────────────────────────────────────────
+```
+
+<div align="center">
+
+*Disponible para nuevas oportunidades · Open to work*
+
+<img src="https://komarev.com/ghpvc/?username=Alfredosullivan&label=Visitas&color=0e75b6&style=flat-square" alt="profile views"/>
+
+</div>
